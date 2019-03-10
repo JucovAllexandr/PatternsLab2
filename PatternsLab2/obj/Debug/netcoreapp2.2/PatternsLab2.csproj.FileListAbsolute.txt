@@ -1,0 +1,11 @@
+/home/sania/RiderProjects/patterns/PatternsLab2/PatternsLab2/bin/Debug/netcoreapp2.2/PatternsLab2.deps.json
+/home/sania/RiderProjects/patterns/PatternsLab2/PatternsLab2/bin/Debug/netcoreapp2.2/PatternsLab2.runtimeconfig.json
+/home/sania/RiderProjects/patterns/PatternsLab2/PatternsLab2/bin/Debug/netcoreapp2.2/PatternsLab2.runtimeconfig.dev.json
+/home/sania/RiderProjects/patterns/PatternsLab2/PatternsLab2/bin/Debug/netcoreapp2.2/PatternsLab2.dll
+/home/sania/RiderProjects/patterns/PatternsLab2/PatternsLab2/bin/Debug/netcoreapp2.2/PatternsLab2.pdb
+/home/sania/RiderProjects/patterns/PatternsLab2/PatternsLab2/obj/Debug/netcoreapp2.2/PatternsLab2.csprojAssemblyReference.cache
+/home/sania/RiderProjects/patterns/PatternsLab2/PatternsLab2/obj/Debug/netcoreapp2.2/PatternsLab2.csproj.CoreCompileInputs.cache
+/home/sania/RiderProjects/patterns/PatternsLab2/PatternsLab2/obj/Debug/netcoreapp2.2/PatternsLab2.AssemblyInfoInputs.cache
+/home/sania/RiderProjects/patterns/PatternsLab2/PatternsLab2/obj/Debug/netcoreapp2.2/PatternsLab2.AssemblyInfo.cs
+/home/sania/RiderProjects/patterns/PatternsLab2/PatternsLab2/obj/Debug/netcoreapp2.2/PatternsLab2.dll
+/home/sania/RiderProjects/patterns/PatternsLab2/PatternsLab2/obj/Debug/netcoreapp2.2/PatternsLab2.pdb
